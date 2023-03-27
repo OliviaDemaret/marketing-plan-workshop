@@ -1,7 +1,27 @@
-# Workshop Plan Marketing
+# Workshop collectif
+
+Dans le cadre de la formation Junior Web Developer de BeCode Liège, les apprenants doivent réaliser un workshop sur une technologie au choix. Plusieurs étudiants ont dédicer de travailler sur un même projet, réparti en plusieurs petits groupes chacun travaille sur son domaine de prédilection afin de l'expliquer aux autres dans une présentation orale sur campus. 
+
+## Résumé du projet
+
+Le projet représente un site de location de DVD de films/séries, sur base d'un catalogue le visiteur peut choisir de louer un film/une série sur base d'informations telles que le genre, la note sur 5, la disponibilité,le réalisateur, ect... 
+
+Plusieurs fonctionnalités sont à disposition du visiteur telle que la possibilité de filtrer les films sur base d'un ou plusieurs critères mais aussi de récupérer des suggestions de films grâce à un système de tag similaire. 
+
+### Les groupes
+
+1. Figma/Design: [Lisa](https://github.com/lilouMazzarisi);
+2. HTML/CSS: [Lauranne](https://github.com/l4ur4nn3), [Vitto](https://github.com/Vittoria-P), [Jade](https://github.com/TreshMiralissa);
+3. API/Laravel: [Sacha](https://github.com/sachajeunejean), [Valentin](https://github.com/GeorisVal);
+4. VueJS: [Tanguy](https://github.com/TanguyC0), [Aurélie](https://github.com/Elhya13);
+5. Marketing: [Olivia](https://github.com/OliviaDemaret).
+
+## Partie du Repo
 
 
-Le contexte:
+### Bref descriptif
+
+#### Contexte
 
 C'est un magasin physique de location de films (DVD, blu-ray). Le propriétaire aimerait se faire plus connaître afin d'avoir une plus large clientèle. Le marché est au point mort pour le moment, surtout avec l'avènement de Netflix, Disney +, ... Afin d'assurer sa présence sur le net, le propriétaire a demandé les services de développeurs pour créer un site internet sur lequel il est possible de voir quels films sont disponibles en location. 
 
@@ -11,71 +31,4 @@ C'est déjà un bon début pour assurer sa présence en ligne, attirer plus de c
 
 Une stratégie marketing performante l'est avant même de lancer une campagne mais il ne faut pas non plus tomber dans l'extrême et trop planifier/analyser sinon on peut rester paralysé! Il faut trouver un équilibre...
 
-Plus les clients sont connectés, plus la dimension digitale est à prendre en considération dans le marketing. Ici, nous allons nous concentrer sur le marketing digital.
-
-## E-marketing
-
-### C'est quoi l'E-marketing?
-
-L'e-marketing, c'est l'ensemble des actions marketing qui passent par un écran et par le biais d'internet.
-ça peut être sur:
-
-- ordinateurs,
-- tablettes,
-- smartphones,
-- objets connectés.
-
-Dans le marketing digital, nous pouvons retrouver les sous-domaines suivant:
-
-- pubs en lignes,
-- community management et e-reputation,
-- traffic management et web analytics,
-- marketing de contenu et copywriting,
-- social media management,
-- branding,
-- référencement naturel et payant (SEO),
-- e-mail marketing,
-- affiliate marketing,
-- marketing mobile,
-- marketing d'influence,
-- ...
-
-Beaucoup de choses existent mais nous allons nous concentrer uniquement sur certains aspects. Mais comment savoir lesquels nous conviennent le mieux dans notre situation?
-
-Pour cela nous allons commencer par réaliser un marketing-mix!
-
-## Marketing-mix
-
-Un marketing-mix se présente sous cette forme:
-
-![marketing-mix](https://www.mauricelargeron.com/wp-content/uploads/2015/08/mix-marketing.jpg)
-
-
-**Produit**: Quel(s) produit(s)/service(s) ou idée(s) est-ce que vous mettez sur le marché? Quelle offre?
-
-**Prix**: Si payant, quelle contrepartie financière demander? Modèle économique? Si concurrent(s), quelle est leur politique de prix?
-
-**Distribution**: Livraison ou retrait? Magasin physique ou en ligne? ou les deux?
-
-**Promotion**: Communication de l'offre sur le marché? Quel canal? Quelle tactique?
-
-Un marketing-mix doit être conçu sur mesure pour le projet, il doit être considéré comme une réflexion continue et dépendante d'un contexte (zone géographique visée, époque, public visé, ...).
-
-## Plan marketing
-
-Ce marketing-mix va nous aider à réaliser les 4 grandes étapes d'un plan marketing:
-
-1) Définir les objectifs: à quoi va servir le plan marketing?
-
-2) L'étude de marché: comprendre notre marché pour mieux atteindre nos objectifs.
-
-3) Stratégie marketing: orienter nos actions pour atteindre un avantage concurrentiel sur notre marché.
-
-4) Plan d'action: traduire votre stratégie en plan d'action sur une période donnée et dans le respect de notre budget.
-
-Le plan marketing sert à définir:
-
-- où l'on veut aller,
-- quand on compte y arriver,
-- comment on veut y aller,
-- quels moyens seront nécessaires pour y arriver.
+## [Next](/plan-marketing/intro-and-basics.md)
