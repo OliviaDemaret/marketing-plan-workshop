@@ -2,7 +2,7 @@
 
 Pour faire une étude de marché, il faut commencer par collecter et analyser les données de notre marché.
 
-/!\ Biais de confirmation
+/!\ **Biais de confirmation**
 
 Un biais de confirmation est lorsque l'on réalise nos études nous-mêmes et que l'on fait confiance à l'information qui nous arrange le plus et qu'on ignore le reste.
 
@@ -33,6 +33,30 @@ Concernant le monopole, être la seule entreprise sur un marché n'est pas toujo
 
 
 ## L'audience/la cible
+
+Une grande partie du marketing est d'analyser sa cible pour mieux la toucher.
+
+### A qui faire connaitre notre offre?
+
+Il est primordiale de bien identifier sa cible. C'est-à-dire ceux qui demandent déjà une offre similaire à la nôtre ou ceux qui pourraient la demander s'ils la connaissaient.
+
+Il est également important de savoir vers quel type d'audience nous nous orientons:
+
+- **B2B**, -> Business to Business
+- **B2C**, -> Business to Consumers
+- **B2B ET B2C**. -> Business to Business AND Business to Consumers.
+
+Une fois que l'on a intégré tout cela, il faut déterminer avec précision qui est notre cible.
+
+Pour cela, nous nous baserons sur 2 **critères**:
+
+- **sociodémographiques** (âge, sexe, zone géographique, taille de la famille, niveau d'études, revenus, ...);
+
+- **comportementaux** (mode de vie, appétences*, motivations, ...).
+
+ **Appétence**: désir d'usage ou d'achats ressenti par l'individu pour un produit ou une marque. Attirance pour ce qui peut satisfaire un besoin ou une envie.
+
+
 
 
 
