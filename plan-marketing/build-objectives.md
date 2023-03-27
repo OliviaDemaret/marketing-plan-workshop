@@ -43,18 +43,10 @@ Si les clients sont satisfaits par notre offre, il serait bien de les fidéliser
 
 Pour définir intelligemment ses objectifs, il faut utiliser la méthode SMART. C'est-à-dire qu'un objectif doit être formulée de manière:
 
-- **S**pécifique,
-- **M**esurable,
-- **A**ctionnable,
-- **R**éaliste,
-- **T**emporelle.
-
-
-
-
-## Méthode SWOT
-
-
-
+- **S**pécifique, -> L'objectif doit être précis.
+- **M**esurable, -> Ce qui est mesurable est améliorable.
+- **A**ctionnable, -> On peut définir des actions pour le réaliser.
+- **R**éaliste, -> L'objectif doit être réaliste.
+- **T**emporel. -> Un objectif n'est pas fixé s'il n'a pas de date limite.
 
 ## [Next](market-study.md)
