@@ -45,7 +45,7 @@ Et donc chaque élément du marketing-mix et technique marketing utilisée sont 
 
 > *"Une stratégie marketing gagnante est avant tout une combinaison de bons choix marketing."*
 
-
+![Never be afraid to fail gif](https://i.giphy.com/media/aNLAwrbSbboMvYE5Ge/200w.webp)
 
 ## Les indicateurs de performance (KPI)
 
@@ -80,6 +80,6 @@ Il existe différentes façons de définir un budget marketing en voici quelques
 - soit on donne un budget variable, souvent exprimé en pourcent du chiffre d'affaires et adapté à nos actions,
 - soit on définit un premier plan d'action et ensuite on demande le budget correspondant au décisionnaire.
 
-
+![Expert yet gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDMzYzk2NTBmOWFiYTE4NzdmOWUxZDFiZWQ1MmZhY2ViMGY3M2I4NCZjdD1n/lr71h6Zv1RDgkSCrdS/giphy.gif)
 
 ## [Next](exercises.md)

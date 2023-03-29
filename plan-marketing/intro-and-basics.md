@@ -67,4 +67,6 @@ Le plan marketing sert à définir:
 - comment on veut y aller,
 - quels moyens seront nécessaires pour y arriver.
 
+![online marketing gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmM1YzcxNjhhYjdlZTg0NjU4NjRlYjAwYzMyYTJiNzUwNGUzNGYyMSZjdD1n/76pYtCRuNgMCXioMsY/giphy.gif)
+
 ## [Next](build-objectives.md)
