@@ -60,5 +60,23 @@ Logiquement, les phases du modèle AIDAR correspondent aux phases de vie du clie
 
 ## Transformer les cibles en visiteurs
 
+La première étape pour commencer à développer une relation avec les cibles est d'attirer l'attention.
 
+Il existe une énorme compétition entre les annonceurs et cela fait grimper le prix des espaces publicitaires et diminue l'efficacité des actions marketing.
+
+Il est donc important de maîtriser les techniques fondamentales de marketing ou de neuromarketing pour faire sortir notre message du lot.
+
+### Neuromarketing
+
+Le neuromarketing est l'application des sciences cognitives au marketing. C'est aussi l'étude des mécanismes cérébraux qui influencent le comportement d'achat. La communication passe par tous les sens, principalement la vue et ensuite l'ouie. Il faut donc choisir méticuleusement ses mots et encore plus ses visuels.
+
+#### Visuel
+
+Pour qu'un visuel soit efficace, il doit interpeller. Voici une liste de choses qui attirent le plus la plupart des gens:
+
+- les choses étranges, surprenantes, intrigantes ou excentriques;
+- les couleurs vives;
+- la nourriture;
+- les animaux mignons ou exotiques;
+- les humains attirants ou en bas âge.
 
