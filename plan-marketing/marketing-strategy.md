@@ -28,5 +28,6 @@ Comme décrit dans le schéma ci-dessous, la méthode consiste à déterminer no
 On peut intégrer notre analyse SWOT à notre marketing-mix, ces outils sont complémentaires. Mais c'est en testant notre stratégie qu'on peut savoir avec certitude si elle est adaptée ou non. Avant cette phase de tests, tout n'est qu'hypothèse en attente d'être confirmée ou réfutée.
 
 
+Une stratégie marketing performante l'est avant même de lancer une campagne mais il ne faut pas non plus tomber dans l'extrême et trop planifier/analyser sinon on peut rester paralysé! Il faut trouver un équilibre...
 
 ## [Next](action-plan.md)
