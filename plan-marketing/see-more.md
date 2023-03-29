@@ -38,7 +38,27 @@ Ces phases sont les suivantes:
 
 
 **Remarque**:
-Ces phases se succèdent plus ou moins vite en fonction de nos actions marketing.
+Ces phases se succèdent plus ou moins vite en fonction de nos actions marketing. Plus une personne est loin dans le cycle, plus elle est précieuse pour nous.
+
+## Méthodologie AIDAR
+
+La méthodologie AIDAR sert à convertir notre audience en clients. Tous les interlocuteurs n'ont pas les mêmes attentes.
+
+C'est pourquoi la personnalisation de la relation client est importante, à nous donc de "différencier" notre communication et nos actions marketing en fonction de notre interlocuteur.
+
+/!\ C'est pour cela qu'il faut faire attention à la pertinence des plans de fidélité pour les visiteurs/prospects et inversément des offres découvertes pour nos clients de longues dates. De plus, il faut éviter le gaspillage et tirer un maximum de notre budget marketing.
+
+Le modèle AIDAR sert à séquencer et prioriser nos actions, il se décompose en 5 phases successives:
+
+- attirer l'**A**ttention,
+- susciter l'**I**ntérêt,
+- stimuler le **D**ésir,
+- faire passer à l'**A**ction,
+- fidéliser pour faire **R**ecommnander.
+
+Logiquement, les phases du modèle AIDAR correspondent aux phases de vie du client. Il est donc important de se rapporter au tunnel de conversion.
+
+## Transformer les cibles en visiteurs
 
 
 
