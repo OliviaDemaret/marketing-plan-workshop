@@ -80,3 +80,24 @@ Pour qu'un visuel soit efficace, il doit interpeller. Voici une liste de choses 
 - les animaux mignons ou exotiques;
 - les humains attirants ou en bas âge.
 
+#### Texte
+
+Pour attirer l'attention à l'aide du texte, il faut prêter attention à sa taille et à sa longueur.
+
+En effet, celle-ci est un indicateur de l'importance du message. Plus le texte est gros, plus il est important mais plus il est long, plus il représentera un effort pour le lecteur, il aura moins de chance d'être lu.
+
+Il est donc important d'être précis et concis, utiliser les bons mots clés, être personnel et direct. Cependant, s'adresser à tout le monde c'est s'adresser à personne. Il ne faut pas tomber dans les extrêmes.
+
+#### Être créatif
+
+Il faut également être créatif pour attirer l'attention avec des techniques alternatives:
+
+- ce qui est nouveau attire l'attention,
+- certains marketeurs peu scrupuleux se servent de la misère des gens pour attirer l'attention et vendre,
+- le bad buzz reste du buzz.
+
+**Remarque**:
+
+La communication basée sur la provocation existe également: être détestable peut rapporter gros. Mais dans une organisation, mieux vaut surveiller notre réputation que de la ternir.
+
+/!\ Il est important de respecter la **charte graphique** et la **ligne éditoriale** de l'organisation. Rien ne sert d'attirer l'attention de quelqu'un dont on ne suscite pas l'intérêt. A nous d'adapter notre communication en fonction du positionnement marketing de notre organisation pour intéresser nos cibles.
