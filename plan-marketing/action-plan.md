@@ -35,6 +35,18 @@ Les actions marketing peuvent être:
 
 Il est vivement conseillé de lister les actions dans un **rétroplanning**. Un rétroplanning sert à coordonner les efforts pour chaque campagne de marketing. Cependant, il ne suffit pas à s'assurer que nos campagnes sont réalistes. Il faut aussi leur allouer des ressources c'est-à-dire un responsable et un budget.
 
+Pour chaque action marketing mise en place, il est important de comprendre pourquoi elle a fonctionné ou non. Pour cela, on peut réaliser des analyses et des tests, ils sont cruciaux. Ils ne permettent pas juste de comprendre quelle action a fonctionné ou non mais aussi de voir s'il est possible de mettre en place de nouvelles actions, lesquelles seraient les plus adaptées, voir s'il serait judicieux d'ajuster les prix, notre produit ou notre stratégie de distribution.
+
+C'est grâce à ces tests que l'on déterminera avec précision la meilleure stratégie pour atteindre nos objectifs.
+
+Pour faire des conclusions pertinentes, il faut également se référer à notre marketing-mix et l'ensemble de nos actions comme un système: *un ensemble d'éléments considérés dans leurs relations à l'intérieur d'un tout fonctionnant de manière unitaire.*
+
+Et donc chaque élément du marketing-mix et technique marketing utilisée sont interdépendant. 
+
+> *"Une stratégie marketing gagnante est avant tout une combinaison de bons choix marketing."*
+
+
+
 ## Les indicateurs de performance (KPI)
 
 Les indicateurs de performance ou Key Performance Indicators (KPI) en anglais servent à suivre et évaluer la performance de nos actions. Ils sont associés à un objectif et sont à contrôler au quotidien. Les KPI sont généralement repris sous forme de tableau de bord qui donne une image en temps réel de nos campagnes marketing. Ils facilitent la prise de décision et les rapports.
