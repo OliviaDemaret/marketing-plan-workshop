@@ -33,9 +33,11 @@ Les actions marketing peuvent être:
 - récurrentes (par exemple: chaque mois),
 - continues (par exemple: l'animation de la communauté).
 
+Il est vivement conseillé de lister les actions dans un **rétroplanning**. Un rétroplanning sert à coordonner les efforts pour chaque campagne de marketing. Cependant, il ne suffit pas à s'assurer que nos campagnes sont réalistes. Il faut aussi leur allouer des ressources c'est-à-dire un responsable et un budget.
+
 ## Les indicateurs de performance (KPI)
 
-Les indicateurs de performance ou Key Performance Indicators (KPI) en anglais servent à suivre et évaluer la performance de nos actions. Ils sont associés à un objectif.
+Les indicateurs de performance ou Key Performance Indicators (KPI) en anglais servent à suivre et évaluer la performance de nos actions. Ils sont associés à un objectif et sont à contrôler au quotidien. Les KPI sont généralement repris sous forme de tableau de bord qui donne une image en temps réel de nos campagnes marketing. Ils facilitent la prise de décision et les rapports.
 
 ### Différents KPI
 
@@ -53,5 +55,19 @@ Certains KPI sont universels et se retrouvent dans la majorité des plans market
 
 **Remarque**:
 D'autres sont plus spécifiques au domaine d'activité ou au modèle économique de l'entreprise. Ils ne sont pas tous toujours pris en compte, mais encore faut-il bien choisir lesquels sont importants pour servir nos objectifs.
+
+Cela parait beaucoup mais ne vous en faites pas, maintenant de nombreuses applications automatisent la collecte de données et calculent les KPI les plus communs pour vous. Je pense notamment à Facebook, Twitter, MailChimp, ...)
+
+Par contre, certains KPI relèvent plus du business que du digital et seront à calculer vous-même.
+
+## Définir le budget
+
+Il existe différentes façons de définir un budget marketing en voici quelques-unes:
+
+- soit on donne un  budget fixe et on fait avec,
+- soit on donne un budget variable, souvent exprimé en pourcent du chiffre d'affaires et adapté à nos actions,
+- soit on définit un premier plan d'action et ensuite on demande le budget correspondant au décisionnaire.
+
+
 
 ## [Next](exercises.md)
