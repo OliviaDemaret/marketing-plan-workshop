@@ -179,3 +179,23 @@ Il faut permettre à nos visiteurs de se projeter, de se prévisualiser notre of
 
 Les **vidéos marketing** sont puissantes, elles donnent vie à notre offre, d'humaniser la relation avec le client et faire une démonstration des bienfaits de nos produits/services.
 
+#### Taux de rebond
+
+Le taux de rebond permet de vérifier l'efficacité de notre landing page. Plus il est faible, mieux c'est. S'il est faible c'est que les visiteurs naviguent bien sur les autres pages de notre site web.
+
+Si les visiteurs n'explorent pas plus notre site au-delà de la landing page, c'est soit:
+
+- que la landing page n'est pas assez accrocheuse,
+- qu'elle ne correspond pas à ce qui fait venir le visiteur en premier lieu.
+
+Il est donc important de s'assurer qu'il y ait une cohérence entre le message qui a fait venir le visiteur (la publicité en ligne) et ce qu'il trouve sur le site.
+
+D'un site à l'autre, le taux de rebond peut être interprété différemment.
+
+En règle générale, on dit qu'n taux de rebond:
+
+- au-dessus de 80% est catastrophique,
+- entre 60% et 80% est plutôt mauvais,
+- entre 40% et 60% est moyen,
+- entre 20% et 40% est plutôt bon,
+- en-dessous de 20% est excellent.

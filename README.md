@@ -29,6 +29,5 @@ C'est déjà un bon début pour assurer sa présence en ligne, attirer plus de c
 
 > *"Echouer dans sa planification, c'est planifier son échec."*
 
-Une stratégie marketing performante l'est avant même de lancer une campagne mais il ne faut pas non plus tomber dans l'extrême et trop planifier/analyser sinon on peut rester paralysé! Il faut trouver un équilibre...
 
 ## [Next](/plan-marketing/intro-and-basics.md)
