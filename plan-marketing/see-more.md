@@ -179,7 +179,7 @@ Il faut permettre à nos visiteurs de se projeter, de se prévisualiser notre of
 
 Les **vidéos marketing** sont puissantes, elles donnent vie à notre offre, d'humaniser la relation avec le client et faire une démonstration des bienfaits de nos produits/services.
 
-#### Taux de rebond
+### Taux de rebond
 
 Le taux de rebond permet de vérifier l'efficacité de notre landing page. Plus il est faible, mieux c'est. S'il est faible c'est que les visiteurs naviguent bien sur les autres pages de notre site web.
 
@@ -199,3 +199,39 @@ En règle générale, on dit qu'n taux de rebond:
 - entre 40% et 60% est moyen,
 - entre 20% et 40% est plutôt bon,
 - en-dessous de 20% est excellent.
+
+### Taux de conversion
+
+C'est à partir du comportement des visiteurs sur notre site que l'on peut déduire la phase du cycle de vie du client.
+
+Certaines actions les qualifient de prospects:
+
+- une demande d'infos supplémentaires ou d'un rendez-vous,
+- une prise de contact,
+- un clic vers une autre page produit,
+- une mise en panier ou en favori d'un article.
+
+En reccueillant ces informations avec notre compte web analytics, nous pouvons calculer notre taux de transformation (ou de conversion) en prospects:
+
+    - Taux de conversion =   nombre de prospects
+                            _____________________ X 100
+                             nombre de visiteurs
+
+Ce taux sert à vérifier si les actions mises en place sont efficaces.
+
+## Transformer les prospects en clients
+
+C'est maintenant le moment critique car il faut pousser les prospects à passer à l'action pour les faire devenir client. Ils ont montré une intention d'achat, ils sont donc potentiellement demandeur de notre offre.
+
+Il faut les convaincre d'acheter, pour cela un bon argumentaire pour vendre est nécessaire. Cet argumentaire doit les assister dans leur prise de décision et être calibré pour convaincre ou persuader le prospect à choisir notre offre plutôt qu'une autre.
+
+### Convaincre vs. persuader
+
+Convaincre et persuader, ce n'est pas la même chose. La nuance est subtile:
+
+- convaincre fait appel à la raison, à des arguments rationnels et explicites:
+- persuader fait appel aux sentiments, à des arguments affectifs et implicites.
+
+En fonction du problème que notre offre résout, il faut jouer sur l'un ou l'autre.
+
+L'un ou l'autre, il faut anticiper et répondre aux questions ou objections que le prospect pourrait avoir avant même qu'il ne les pose.
