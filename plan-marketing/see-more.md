@@ -147,6 +147,35 @@ Le tout est de transformer son intérêt en désir.
 
 ### Stimuler le désir d'acheter
 
+Pour répondre aux besoins du visiteur, il faut lui expliquer pourquoi notre offre est la solution à son problème. Et pour cela, il n'y a pas de meilleur endroit que notre landing page.
 
+#### Landing page
 
+Avoir une landing page optimisée est un enjeu crucial pour le marketing digital. Il est donc important de présenter notre offre de la manière la plus claire et attractive possible pour répondre aux besoins de nos visiteurs.
+
+##### Copywriting
+
+Choisir ses mots demande beaucoup de précision et d'empathie. Certains marketeurs en ont fait leur spécialisation. Ces techniques rédactionnelles pour supports marketing s'appelle le **copywriting**.
+
+Le principe est d'en dire le plus possible avec le moins de mots possible. Tout comme pour le visuel d'une publicité, le texte a toute son importance. Moins il y a de texte à l'écran, plus il a de l'impact. A chaque fois que l'on rajoute du texte, on dilue notre message.
+
+Il faut expliquer pourquoi noter offre est la meilleure et pas juste qu'elle est la meilleure. Pour cela, il faut identifier les points forts de notre offre et les faire ressortir (rappelez-vous de la méthode SWOT).
+
+Si notre offre a beaucoup de points forts, il faut les prioriser et sélectionner ceux qui donneront le plus envie de considérer l'achat.
+
+On peut également présenter notre texte plus tard ou laisser les internautes le découvrir par eux-mêmes au fur et à mesure de leur expérience. 
+
+##### Visuel
+
+Communiquer visuellement a toute son importance car il est difficile de désirer quelque chose que l'on ne voit pas ou que l'on a du mal à se représenter.
+
+Il faut permettre à nos visiteurs de se projeter, de se prévisualiser notre offre. Pour cela, il faut que notre landing page soit imagée.
+
+- Si notre offre concerne des **produits physiques**, il faut les montrer sous leur meilleur angle;
+
+- Si par contre notre offre ne concerne que des **produits numériques**, il faut montrer des captures de l'application ou une vidéo de son fonctionnement;
+
+- Si notre offre concerne des **services**, il faut trouver une image représentative ou faire une vidéo de présentation.
+
+Les **vidéos marketing** sont puissantes, elles donnent vie à notre offre, d'humaniser la relation avec le client et faire une démonstration des bienfaits de nos produits/services.
 
