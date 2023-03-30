@@ -235,3 +235,37 @@ Convaincre et persuader, ce n'est pas la même chose. La nuance est subtile:
 En fonction du problème que notre offre résout, il faut jouer sur l'un ou l'autre.
 
 L'un ou l'autre, il faut anticiper et répondre aux questions ou objections que le prospect pourrait avoir avant même qu'il ne les pose.
+
+### Faciliter le passage à l'action
+
+Pour inciter le prospect à passer à l'action, il faut guider son regard et son curseur vers le bouton d'appel à l'action.
+
+Ce bouton doit être bien visible et mis en évidence à l'endroit où le prospect a le plus de chances de se décider à l'achat. La place du bouton peut donc varier en fonction de la structure de la page.
+
+### Réduire les frictions
+
+Si le prospect doit chercher le bouton alors ça génère de la friction. Cela désigne une expérience qui n'est pas fluide et ça diminue les chances de conversion. Plus les utilisateurs perdront du temps, moins on les convertira en clients.
+
+Il faut donc rester vigilant et réduire tout effort pour le bien de l'utilisateur et donc le nôtre en créant un parcours de navigation esthétiquement agréable et bien balisé par des boutons d'appel à l'action.
+
+#### Formulaire
+
+Un des points de friction les plus bloquant et les plus communs est de remplir un formulaire. IL faut bien en passer par là pour avoir des informations sur notre prospect. Dans ce cas, il ne faut pas demander plus d'informations que ce dont on a réellement besoin. Il faut réduire au maximum le nombre de champs de nos formulaires.
+
+Pour résourdre ce problème, certains navigateurs proposent aux internautes d'enregistrer les informations, ainsi ils n'ont pas besoin de les retaper à chaque fois.
+
+### Réussir à conclure
+
+Voici quelques techniques pour réussir à conclure au plus vite une vente.
+
+#### L'offre promotionnelle
+
+C'est un geste commercial qui suffit à pousser à l'achat. La gratuité est un argument très puissant. Un cadeau (livraison gratuite, produit supplémentaire, ...) peut avoir beaucoup d'influence sur la décision d'achat.
+
+#### L'urgence
+
+Si cette offre est limitée dans le temps ou que la qualité du produit disponible est limitée, notre offre aura plus de chances d'être efficace.
+
+#### La confiance
+
+Le manque de confiance peut être un frein à l'achat. Avant de s'engager financièrement et devenir client, un prospect aura besoin d'être rassuré. Si notre image de marque est forte, le prospect aura déjà plus confiance. Si ce n'est pas le cas, on peut afficher des témoigagnes de clients satisfaits sur notre landing page. Plus ces témoins (individus ou entreprises) inspiront confiance, plus notre prospect sera rassuré et susceptible de passer à l'action.
