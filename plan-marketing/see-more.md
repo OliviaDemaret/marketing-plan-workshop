@@ -101,3 +101,52 @@ Il faut également être créatif pour attirer l'attention avec des techniques a
 La communication basée sur la provocation existe également: être détestable peut rapporter gros. Mais dans une organisation, mieux vaut surveiller notre réputation que de la ternir.
 
 /!\ Il est important de respecter la **charte graphique** et la **ligne éditoriale** de l'organisation. Rien ne sert d'attirer l'attention de quelqu'un dont on ne suscite pas l'intérêt. A nous d'adapter notre communication en fonction du positionnement marketing de notre organisation pour intéresser nos cibles.
+
+### Susciter l'intérêt
+
+Pour susciter l'intérêt pour obtenir des visiteurs sur notre site, il faut leur donner ce qu'ils recherchent, ce qui les intéressent. Or, le cerveau humain est constamment en train de scanner son environnement à la recherche:
+
+- d'opportunités pour améliorer sa condition,
+- de menaces à éviter.
+
+Et donc le message d'invitation à visiter notre site doit être exprimé comme une invitation à résoudre un problème pour notre cible.
+
+Une fois que notre message, notre visuel est construit, encore faut-il savoir calculer et mesurer la conversion des cibles en visiteurs.
+
+#### Mesurer la conversion
+
+Il y a différentes façon de payer et donc mesurer la publicité en ligne: le coût par impressions et le coût par clics. Le nombre d'impressions est le nombre de fois où notre publicité a été vue. Tandis que le nombre de clics reprend le nombre de fois où une cible a cliqué sur notre publicité.
+
+La façon la plus courante et la plus précise est le **coût par clics (CPC)**.
+
+Pour la calculer, nous devons d'abord calculer le **coût pour mille impressions (CPM)**.
+
+    - CPM =      coût de la campagne
+                 _____________________  X 1000
+                  nombre d'impressions
+
+Le coût par clic est calculé comme suit:
+
+    - CPC =     coût pour l'annonceur
+                _______________________ 
+                    nombre de clics
+
+On parle également de **Taux de clics (CTR)**, il est calculé comme suit:
+
+    - CTR =     nombre de clics
+             ______________________ X 100
+              nombre d'impressions
+
+## Transformer les visiteurs en prospects
+
+**Prospect** = personne qui entame un processus de décision d'achat.
+
+Il faut maintenant stimuler le désir du visiteur pour notre offre. On a déjà toute son attention et son intérêt car il a attéri sur notre site. Pour rappel, il cherche à résoudre un problème, c'est pourquoi il a cliqué sur notre publicité en ligne.
+
+Le tout est de transformer son intérêt en désir.
+
+### Stimuler le désir d'acheter
+
+
+
+
